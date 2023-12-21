@@ -18,16 +18,17 @@ This project is designed to provide hands-on experience with SQL queries within 
 
 * Clone the repository:
 
-	git clone https://github.com/your_username/Rent-A-Car.git
-	cd Rent-A-Car
+		git clone https://github.com/hacioglua/car_rental-main.git
+
+		cd Rent-A-Car
 
 * Install dependencies:
 
-	pip install PySimpleGUI
+		pip install PySimpleGUI
 
 * Run the application:
 
-	python main.py
+		python main.py
 
 * Login: Users and administrators can log in by providing their respective IDs, names, and passwords. The authentication process involves executing SQL queries to validate user credentials.
 

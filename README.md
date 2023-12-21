@@ -1,4 +1,4 @@
-##Rent-A-Car Application
+Rent-A-Car Application
 
 Rent-A-Car is a simple Python application developed for the Database Management course. The primary objective of this project is to enhance the understanding and usage of SQL queries, including subqueries, joins, and various other SQL operations. While the graphical user interface (GUI) is not highly sophisticated, the focus is on showcasing the application of SQL in a practical context.
 
